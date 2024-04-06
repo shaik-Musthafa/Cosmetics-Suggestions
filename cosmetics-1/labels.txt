@@ -1,0 +1,6 @@
+0 Oily
+1 Dry
+2 Normal
+3 wrinkles
+4 acne
+5 Darkcircles
